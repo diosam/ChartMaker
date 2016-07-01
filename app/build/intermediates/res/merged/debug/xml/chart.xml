@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ai:chart xmlns:ai="http://www.artfulbits.com/android/aiCharts">
+	<ai:area>
+    <ai:area.xaxis labels_mode="SeriesLabels"/>
+    <ai:area.yaxis labels_mode="SeriesLabels"/>
+	</ai:area>
+	<ai:series name="defaultSeries" color="#FFFFD800"/>
+	<ai:title text="Chart Title" dock="Top"/>
+</ai:chart>

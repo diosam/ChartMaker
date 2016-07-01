@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/JTL/AndroidStudioProjects/ChartMaker/app/build/intermediates/res/merged/debug/menu/sub1.xml",
+        "source": "/Users/JTL/AndroidStudioProjects/ChartMaker/app/src/main/res/menu/sub1.xml"
+    },
+    {
+        "merged": "/Users/JTL/AndroidStudioProjects/ChartMaker/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/JTL/AndroidStudioProjects/ChartMaker/app/src/main/res/menu/main.xml"
+    }
+]

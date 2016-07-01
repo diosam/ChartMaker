@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">인포그래퍼</string>
+    <string name="title_section1">차트 선택</string>
+    <string name="title_section2">차트 그리기</string>
+    <string name="action_settings">About</string>
+    <string name="action_default">원래대로</string>
+    <string name="action_change">이미지 교체</string>
+    <string name="action_capture">차트 캡쳐</string>
+    <string name="action_show">수치 보이기</string>
+    <string name="action_hide">수치 감추기</string>
+
+</resources>

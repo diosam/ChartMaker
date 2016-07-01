@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/JTL/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/JTL/AndroidStudioProjects/ChartMaker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_c8fadf473af16f80cebf8a6e3f3237c85a0f727c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JTL/AndroidStudioProjects/ChartMaker/app/libs/aiCharts_1x.1.7.169.90217.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c6f713396c3425e2d1241a7abe524352d28a7ae2">
+        <dex dex="/Users/JTL/AndroidStudioProjects/ChartMaker/app/build/intermediates/transforms/dex/debug/folders/1000/2/aiCharts_1x.1.7.169.90217_6f8890044a90a9e39af8821e24b0cc0607395425/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JTL/AndroidStudioProjects/ChartMaker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5d095022ffdae360f4a6089fb0f8c65feedbba2d">
+        <dex dex="/Users/JTL/AndroidStudioProjects/ChartMaker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4a105c83be67292a8cd1d3da102737dfaa67b27a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JTL/AndroidStudioProjects/ChartMaker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bbdca9e441a8b4037498d9be40d52e7d7bf65c23">
+        <dex dex="/Users/JTL/AndroidStudioProjects/ChartMaker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9a693833e22b65610a93f5fa5a67328c9467b623/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JTL/AndroidStudioProjects/ChartMaker/app/libs/android-support-v13.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="41c6fb0537e463f685d3235fc50d38dc540d6ece">
+        <dex dex="/Users/JTL/AndroidStudioProjects/ChartMaker/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v13_8721c74724526fbde6dcda08659be5ba15f9e831/classes.dex" />
+    </item>
+
+</items>

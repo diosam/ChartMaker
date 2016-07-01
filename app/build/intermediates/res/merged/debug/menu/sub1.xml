@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="kr.jintae.chartmaker.MainActivity" >
+
+  
+         <item
+        android:id="@+id/action_default"
+        android:icon="@drawable/image_default"
+        android:showAsAction="always|withText"
+        android:title="@string/action_default"/>
+   
+    <item
+        android:id="@+id/action_showNumber"
+        android:icon="@drawable/shownumber"
+        android:showAsAction="always|withText"
+        android:title="@string/action_show"/>
+    <item
+        android:id="@+id/action_changeImage"
+        android:icon="@drawable/image_change"
+        android:showAsAction="always|withText"
+        android:title="@string/action_change"/>
+    <item
+        android:id="@+id/action_captureImage"
+        android:icon="@drawable/capture"
+        android:showAsAction="always|withText"
+        android:title="@string/action_capture"/>
+
+</menu>

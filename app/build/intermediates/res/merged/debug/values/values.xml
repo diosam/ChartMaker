@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_capture">차트 캡쳐</string>
+    <string name="action_change">이미지 교체</string>
+    <string name="action_default">원래대로</string>
+    <string name="action_hide">수치 감추기</string>
+    <string name="action_settings">About</string>
+    <string name="action_show">수치 보이기</string>
+    <string name="app_name">인포그래퍼</string>
+    <string name="title_section1">차트 선택</string>
+    <string name="title_section2">차트 그리기</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="imageButtonStyle">
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:background">#00000000</item>
+        <!-- <item name="android:padding">3dp</item> -->
+    </style>
+    <style name="textStyle">
+    </style>
+</resources>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center" >
+
+        <ImageButton
+            android:id="@+id/button1"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_pen1" />
+
+        <ImageButton
+            android:id="@+id/button2"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_pen2" />
+
+        <ImageButton
+            android:id="@+id/button3"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_arrow" />
+
+        <ImageButton
+            android:id="@+id/button4"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_people" />
+
+        <ImageButton
+            android:id="@+id/button5"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_plane" />
+
+        <ImageButton
+            android:id="@+id/button6"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_house" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center" >
+
+        <ImageButton
+            android:id="@+id/button7"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_brush" />
+
+        <ImageButton
+            android:id="@+id/button8"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_cup" />
+
+        <ImageButton
+            android:id="@+id/button9"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_book" />
+
+        <ImageButton
+            android:id="@+id/button10"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_money" />
+
+        <ImageButton
+            android:id="@+id/button11"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_phone" />
+
+        <ImageButton
+            android:id="@+id/button12"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_energy" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center" >
+
+        <ImageButton
+            android:id="@+id/button13"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_apple" />
+
+        <ImageButton
+            android:id="@+id/button14"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_halloween" />
+
+        <ImageButton
+            android:id="@+id/button15"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_envelope" />
+
+        <ImageButton
+            android:id="@+id/button16"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_truck" />
+
+        <ImageButton
+            android:id="@+id/button17"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_watch" />
+
+        <ImageButton
+            android:id="@+id/button18"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="ONCLICK_DIALOG"
+            android:padding="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_camera" />
+    </LinearLayout>
+
+</LinearLayout>
